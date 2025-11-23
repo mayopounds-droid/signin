@@ -56,4 +56,5 @@ inputPlaceholder.forEach((input) => {
         this.classList.toggle("input-border-color");
         console.log("clicked");
     });
+
 });
